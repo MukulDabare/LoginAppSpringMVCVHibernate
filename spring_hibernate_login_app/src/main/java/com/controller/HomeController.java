@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import com.model.Student;
 import com.servicei.HomeServiceI;
 
-@Controller
+@Controller 
 public class HomeController {
 
 	// DriverManagerDataSource
